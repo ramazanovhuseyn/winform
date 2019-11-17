@@ -1,0 +1,16 @@
+c:\users\gayana\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+c:\users\gayana\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+c:\users\gayana\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+c:\users\gayana\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+c:\users\gayana\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+c:\users\gayana\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.RegisterForm.resources
+c:\users\gayana\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+c:\users\gayana\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+c:\users\gayana\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+c:\users\gayana\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+c:\users\gayana\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.loginForm.resources
+c:\users\gayana\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+c:\users\gayana\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.manifest
+c:\users\gayana\source\repos\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.application
+c:\users\gayana\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.manifest
+c:\users\gayana\source\repos\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.application
